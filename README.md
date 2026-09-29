@@ -1,5 +1,5 @@
-# Browser-Block-Game
-Browser-Block-Game is a 2d Minecraft inspired game made with HTML, CSS & Javascript.
+# Browser Block Game
+Browser Block Game is a 2d Minecraft inspired game made with HTML, CSS & Javascript.
 
 You should be able to play it <a href="https://cyan-teal.github.io/">_here_</a>
 
